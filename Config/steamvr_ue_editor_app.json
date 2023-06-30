@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.sm57-unreal-engine-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "SM57 Unreal Engine-18319896 [UE Editor]"
+				}
+			}
+		}
+	]
+}
