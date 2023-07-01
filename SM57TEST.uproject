@@ -106,5 +106,13 @@
 			"Name": "AudioModulation",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"TVOS",
+		"WindowsNoEditor"
 	]
 }
