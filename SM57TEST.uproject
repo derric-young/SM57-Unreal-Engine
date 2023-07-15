@@ -105,6 +105,10 @@
 		{
 			"Name": "AudioModulation",
 			"Enabled": true
+		},
+		{
+			"Name": "GameJoltAPI",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
