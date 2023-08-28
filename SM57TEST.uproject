@@ -95,7 +95,7 @@
 		},
 		{
 			"Name": "AsyncLoadingScreen",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/01f39767dc6b4290877f38365787cbf8"
 		},
 		{
@@ -109,6 +109,11 @@
 		{
 			"Name": "GameJoltAPI",
 			"Enabled": true
+		},
+		{
+			"Name": "ScreenFade",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/031bd60134e7451a966c0fec89eb680f"
 		}
 	],
 	"TargetPlatforms": [
