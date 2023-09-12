@@ -4,59 +4,59 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Fire.uexp" 3
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 4
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPersonFire_Montage.uexp" 5
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 6
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Idle.uexp" 7
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 8
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 9
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 10
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 11
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 12
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 13
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 14
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 15
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 16
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Run.uexp" 17
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 7
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 8
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Idle.uexp" 9
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 10
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 11
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 12
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_Run.uexp" 13
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 14
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 15
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 16
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 17
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 18
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Animations/FirstPerson_AnimBP.uexp" 19
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 20
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uexp" 21
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 22
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 23
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 24
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 25
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 26
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 27
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 28
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 29
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 30
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 31
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 32
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 33
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 34
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 35
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 36
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 37
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 38
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 39
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 40
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 41
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 42
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 43
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 44
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 45
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 46
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 47
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 48
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 49
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 50
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 51
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 52
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 53
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 54
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 55
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 56
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 57
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 58
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 24
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 25
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 26
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 27
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 28
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 29
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 30
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 31
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 32
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 33
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 34
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 35
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 36
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 37
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 38
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 39
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 40
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 41
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 42
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 43
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 44
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 45
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 46
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 47
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 48
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 49
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 50
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 51
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 52
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 53
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 54
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 55
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 56
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 57
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 58
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 59
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uexp" 60
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 61
@@ -123,38 +123,38 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled.uexp" 122
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat.uasset" 123
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat.uexp" 124
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_ncl1_2.uasset" 125
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_ncl1_2.uexp" 126
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat_002.uasset" 127
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat_002.uexp" 128
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_ncl1_1.uasset" 129
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_ncl1_1.uexp" 130
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat_001.uasset" 131
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat_001.uexp" 132
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white.uasset" 125
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white.uexp" 126
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_Mat.uasset" 127
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_Mat.uexp" 128
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling.uasset" 129
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling.uexp" 130
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat.uasset" 131
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat.uexp" 132
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5floor.uasset" 133
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5floor.uexp" 134
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5floor_Mat.uasset" 135
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5floor_Mat.uexp" 136
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling.uasset" 137
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling.uexp" 138
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat.uasset" 139
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat.uexp" 140
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white.uasset" 141
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white.uexp" 142
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_Mat.uasset" 143
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_Mat.uexp" 144
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_ncl1_1.uasset" 145
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_ncl1_1.uexp" 146
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_Mat_001.uasset" 147
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_Mat_001.uexp" 148
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_ncl1_2.uasset" 149
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_ncl1_2.uexp" 150
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat_002.uasset" 151
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat_002.uexp" 152
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_ncl1_1.uasset" 153
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_ncl1_1.uexp" 154
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat_001.uasset" 155
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat_001.uexp" 156
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_ncl1_1.uasset" 137
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_ncl1_1.uexp" 138
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_Mat_001.uasset" 139
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/white_Mat_001.uexp" 140
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_ncl1_2.uasset" 141
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_ncl1_2.uexp" 142
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat_002.uasset" 143
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat_002.uexp" 144
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_ncl1_1.uasset" 145
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_ncl1_1.uexp" 146
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat_001.uasset" 147
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Untitled_Mat_001.uexp" 148
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_ncl1_2.uasset" 149
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_ncl1_2.uexp" 150
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat_002.uasset" 151
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat_002.uexp" 152
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_ncl1_1.uasset" 153
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_ncl1_1.uexp" 154
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat_001.uasset" 155
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor5cieling_Mat_001.uexp" 156
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/outsidebuilding.uasset" 157
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/outsidebuilding.uexp" 158
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint.uasset" 159
@@ -510,12 +510,12 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_RockMesh_M.uasset" 509
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_RockMesh_M.uexp" 510
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 511
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 512
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 513
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 514
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 515
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 516
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 517
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 512
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 513
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 514
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 515
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 516
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 517
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_Rock.uasset" 518
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_Rock.uexp" 519
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Rock.uasset" 520
@@ -907,10 +907,10 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 906
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 907
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 908
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 909
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 910
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 911
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 912
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 909
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 910
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 911
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 912
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 913
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 914
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 915
@@ -1153,35 +1153,35 @@
 "../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_MatteOcclusionOverlay.uexp" 1152
 "../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_SceneDepthOcclusion.uasset" 1153
 "../../../Engine/Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_SceneDepthOcclusion.uexp" 1154
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/Main.uasset" 1155
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/Main.uexp" 1156
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered5.uasset" 1157
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered5.uexp" 1158
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/Material_001.uasset" 1159
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/Material_001.uexp" 1160
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/Flashlight.uasset" 1161
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/Flashlight.uexp" 1162
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1163
-"../../../Engine/Content/BasicShapes/Cone.uexp" 1164
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1165
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1166
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 1167
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uexp" 1168
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/591446__davidkronberg__bell.uasset" 1169
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/591446__davidkronberg__bell.uexp" 1170
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/206043__thefrohman__ambiant-1.uasset" 1171
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/206043__thefrohman__ambiant-1.uexp" 1172
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 1173
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uexp" 1174
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 1175
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uexp" 1176
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator_Texture_for_Unreal.uasset" 1177
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator_Texture_for_Unreal.uexp" 1178
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator_Texture_for_Unreal.ubulk" 1179
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Material_002.uasset" 1180
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Material_002.uexp" 1181
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator.uasset" 1182
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator.uexp" 1183
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator_Texture_for_Unreal.uasset" 1155
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator_Texture_for_Unreal.uexp" 1156
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator_Texture_for_Unreal.ubulk" 1157
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Material_002.uasset" 1158
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Material_002.uexp" 1159
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator.uasset" 1160
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator.uexp" 1161
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/Main.uasset" 1162
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/Main.uexp" 1163
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1164
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1165
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1166
+"../../../Engine/Content/BasicShapes/Cone.uexp" 1167
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered5.uasset" 1168
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered5.uexp" 1169
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/Material_001.uasset" 1170
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/Material_001.uexp" 1171
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/Flashlight.uasset" 1172
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/Flashlight.uexp" 1173
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 1174
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uexp" 1175
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/591446__davidkronberg__bell.uasset" 1176
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/591446__davidkronberg__bell.uexp" 1177
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/206043__thefrohman__ambiant-1.uasset" 1178
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/206043__thefrohman__ambiant-1.uexp" 1179
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 1180
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uexp" 1181
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 1182
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uexp" 1183
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator_Texture_for_Unreal_Mat.uasset" 1184
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Elevator_Texture_for_Unreal_Mat.uexp" 1185
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint5.uasset" 1186
@@ -1189,79 +1189,79 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2_BuiltData.uasset" 1188
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2_BuiltData.uexp" 1189
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2_BuiltData.ubulk" 1190
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/OOB_teleport/teleporter.uasset" 1191
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/OOB_teleport/teleporter.uexp" 1192
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Geometry/Meshes/1M_Cube.uasset" 1193
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Geometry/Meshes/1M_Cube.uexp" 1194
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/uncheckpress.uasset" 1195
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/uncheckpress.uexp" 1196
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/unchecknohover.uasset" 1197
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/unchecknohover.uexp" 1198
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/uncheckhover.uasset" 1199
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/uncheckhover.uexp" 1200
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Screenshot_2023-07-17_152002.uasset" 1201
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Screenshot_2023-07-17_152002.uexp" 1202
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checkpress.uasset" 1203
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checkpress.uexp" 1204
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checknohover.uasset" 1205
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checknohover.uexp" 1206
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checkhover.uasset" 1207
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checkhover.uexp" 1208
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/Grapth.uasset" 1209
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/Grapth.uexp" 1210
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/GI.uasset" 1211
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/GI.uexp" 1212
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blankselected.uasset" 1213
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blankselected.uexp" 1214
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blankpressed.uasset" 1215
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blankpressed.uexp" 1216
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blanknotselected.uasset" 1217
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blanknotselected.uexp" 1218
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/LcdSolid-VPzB.uasset" 1219
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/LcdSolid-VPzB.uexp" 1220
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/LcdSolid-VPzB.ufont" 1221
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/whatisgoingon.uasset" 1222
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/whatisgoingon.uexp" 1223
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Menu_2.uasset" 1224
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Menu_2.uexp" 1225
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Pause.uasset" 1226
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Pause.uexp" 1227
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/SVGMat_001.uasset" 1228
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/SVGMat_001.uexp" 1229
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2Walls.uasset" 1230
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2Walls.uexp" 1231
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1232
-"../../../Engine/Content/BasicShapes/Cube.uexp" 1233
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1191
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1192
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/SVGMat_001.uasset" 1193
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/SVGMat_001.uexp" 1194
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2Walls.uasset" 1195
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2Walls.uexp" 1196
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/uncheckpress.uasset" 1197
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/uncheckpress.uexp" 1198
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/unchecknohover.uasset" 1199
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/unchecknohover.uexp" 1200
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/uncheckhover.uasset" 1201
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/uncheckhover.uexp" 1202
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Screenshot_2023-07-17_152002.uasset" 1203
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Screenshot_2023-07-17_152002.uexp" 1204
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checkpress.uasset" 1205
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checkpress.uexp" 1206
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checknohover.uasset" 1207
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checknohover.uexp" 1208
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checkhover.uasset" 1209
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/checkhover.uexp" 1210
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/Grapth.uasset" 1211
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/Grapth.uexp" 1212
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/GI.uasset" 1213
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Saving/GI.uexp" 1214
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blankselected.uasset" 1215
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blankselected.uexp" 1216
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blankpressed.uasset" 1217
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blankpressed.uexp" 1218
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blanknotselected.uasset" 1219
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/blanknotselected.uexp" 1220
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/LcdSolid-VPzB.uasset" 1221
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/LcdSolid-VPzB.uexp" 1222
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/LcdSolid-VPzB.ufont" 1223
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/whatisgoingon.uasset" 1224
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Fonts/whatisgoingon.uexp" 1225
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Menu_2.uasset" 1226
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Menu_2.uexp" 1227
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Pause.uasset" 1228
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Pause.uexp" 1229
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Geometry/Meshes/1M_Cube.uasset" 1230
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Geometry/Meshes/1M_Cube.uexp" 1231
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/OOB_teleport/teleporter.uasset" 1232
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/OOB_teleport/teleporter.uexp" 1233
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2.uexp" 1234
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor2.umap" 1235
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor3walls.uasset" 1236
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor3walls.uexp" 1237
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor3_BuiltData.uasset" 1238
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor3_BuiltData.uexp" 1239
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor3_BuiltData.ubulk" 1240
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1241
-"../../../Engine/Content/BasicShapes/Plane.uexp" 1242
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot.uasset" 1243
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot.uexp" 1244
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot_Video.uasset" 1245
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot_Video.uexp" 1246
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot_Video_Mat.uasset" 1247
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot_Video_Mat.uexp" 1248
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Plane_Blueprint.uasset" 1249
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Plane_Blueprint.uexp" 1250
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint4.uasset" 1251
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint4.uexp" 1252
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint4.uasset" 1236
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint4.uexp" 1237
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1238
+"../../../Engine/Content/BasicShapes/Plane.uexp" 1239
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot.uasset" 1240
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot.uexp" 1241
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot_Video.uasset" 1242
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot_Video.uexp" 1243
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot_Video_Mat.uasset" 1244
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Movies/ikidyounot_Video_Mat.uexp" 1245
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Plane_Blueprint.uasset" 1246
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Plane_Blueprint.uexp" 1247
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor3_BuiltData.uasset" 1248
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor3_BuiltData.uexp" 1249
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor3_BuiltData.ubulk" 1250
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor3walls.uasset" 1251
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor3walls.uexp" 1252
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor3.uexp" 1253
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor3.umap" 1254
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor4walls.uasset" 1255
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor4walls.uexp" 1256
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor4_BuiltData.uasset" 1257
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor4_BuiltData.uexp" 1258
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor4_BuiltData.ubulk" 1259
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/loading.uasset" 1260
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/loading.uexp" 1261
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint2.uasset" 1262
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint2.uexp" 1263
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/loading.uasset" 1255
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/loading.uexp" 1256
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint2.uasset" 1257
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/TriggerBox_Blueprint2.uexp" 1258
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor4_BuiltData.uasset" 1259
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor4_BuiltData.uexp" 1260
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor4_BuiltData.ubulk" 1261
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor4walls.uasset" 1262
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/floor4walls.uexp" 1263
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor4.uexp" 1264
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Floor4.umap" 1265
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/SVGMat_003.uasset" 1266
@@ -1439,58 +1439,58 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uexp" 1438
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 1439
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uexp" 1440
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 1441
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uexp" 1442
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 1443
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uexp" 1444
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 1445
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uexp" 1446
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 1447
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uexp" 1448
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1449
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 1450
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 1451
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uexp" 1452
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.ubulk" 1453
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 1454
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 1455
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 1456
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uexp" 1457
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 1458
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uexp" 1459
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 1441
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uexp" 1442
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 1443
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uexp" 1444
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 1445
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uexp" 1446
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 1447
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uexp" 1448
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 1449
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uexp" 1450
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1451
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 1452
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 1453
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uexp" 1454
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.ubulk" 1455
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 1456
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 1457
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 1458
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uexp" 1459
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 1460
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uexp" 1461
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 1462
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uexp" 1463
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 1464
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uexp" 1465
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1466
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uexp" 1467
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 1468
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uexp" 1469
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 1470
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uexp" 1471
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 1472
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uexp" 1473
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 1474
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uexp" 1475
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.ubulk" 1476
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 1477
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uexp" 1478
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 1479
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uexp" 1480
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 1481
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uexp" 1482
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector1.uasset" 1483
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector1.uexp" 1484
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 1485
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uexp" 1486
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 1487
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uexp" 1488
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 1489
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uexp" 1490
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 1491
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uexp" 1492
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 1462
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uexp" 1463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 1464
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uexp" 1465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 1466
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uexp" 1467
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1468
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uexp" 1469
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 1470
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uexp" 1471
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 1472
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uexp" 1473
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 1474
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uexp" 1475
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 1476
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uexp" 1477
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.ubulk" 1478
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 1479
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uexp" 1480
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 1481
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uexp" 1482
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 1483
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uexp" 1484
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector1.uasset" 1485
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector1.uexp" 1486
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 1487
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uexp" 1488
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 1489
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uexp" 1490
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 1491
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uexp" 1492
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 1493
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uexp" 1494
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 1495
@@ -1541,13 +1541,13 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Dep.umap" 1540
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Myuu-Troublemaker-Theme.uasset" 1541
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/Menu/Main/Myuu-Troublemaker-Theme.uexp" 1542
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Man_PhysicsAsset.uasset" 1543
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Man_PhysicsAsset.uexp" 1544
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/housetexture.uasset" 1545
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/housetexture.uexp" 1546
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/housetexture.ubulk" 1547
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Material_001.uasset" 1548
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Material_001.uexp" 1549
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/housetexture.uasset" 1543
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/housetexture.uexp" 1544
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/housetexture.ubulk" 1545
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Material_001.uasset" 1546
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Material_001.uexp" 1547
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Man_PhysicsAsset.uasset" 1548
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Man_PhysicsAsset.uexp" 1549
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Man.uasset" 1550
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Man.uexp" 1551
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/mantexture.uasset" 1552
@@ -1647,208 +1647,208 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/cheese_Mat.uexp" 1646
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Hou.uexp" 1647
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Hou.umap" 1648
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Ser_BuiltData.uasset" 1649
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Ser_BuiltData.uexp" 1650
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Ser_BuiltData.ubulk" 1651
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_014.uasset" 1652
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_014.uexp" 1653
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_013.uasset" 1654
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_013.uexp" 1655
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_012.uasset" 1656
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_012.uexp" 1657
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_011.uasset" 1658
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_011.uexp" 1659
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_010.uasset" 1660
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_010.uexp" 1661
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_009.uasset" 1662
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_009.uexp" 1663
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_008.uasset" 1664
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_008.uexp" 1665
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_007.uasset" 1666
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_007.uexp" 1667
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_006.uasset" 1668
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_006.uexp" 1669
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_005.uasset" 1670
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_005.uexp" 1671
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_004.uasset" 1672
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_004.uexp" 1673
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_003.uasset" 1674
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_003.uexp" 1675
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_002.uasset" 1676
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_002.uexp" 1677
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_001.uasset" 1678
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_001.uexp" 1679
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube.uasset" 1680
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube.uexp" 1681
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ifyourreadingthiswhyareyoulookingatalargeactor.uasset" 1682
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ifyourreadingthiswhyareyoulookingatalargeactor.uexp" 1683
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_011.uasset" 1649
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_011.uexp" 1650
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_010.uasset" 1651
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_010.uexp" 1652
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_009.uasset" 1653
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_009.uexp" 1654
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_008.uasset" 1655
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_008.uexp" 1656
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_007.uasset" 1657
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_007.uexp" 1658
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_006.uasset" 1659
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_006.uexp" 1660
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_005.uasset" 1661
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_005.uexp" 1662
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_004.uasset" 1663
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_004.uexp" 1664
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_003.uasset" 1665
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_003.uexp" 1666
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_002.uasset" 1667
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_002.uexp" 1668
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_001.uasset" 1669
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_001.uexp" 1670
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube.uasset" 1671
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube.uexp" 1672
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_014.uasset" 1673
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_014.uexp" 1674
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_013.uasset" 1675
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_013.uexp" 1676
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_012.uasset" 1677
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ILOVEJRS_Cube_012.uexp" 1678
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ifyourreadingthiswhyareyoulookingatalargeactor.uasset" 1679
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/ifyourreadingthiswhyareyoulookingatalargeactor.uexp" 1680
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Ser_BuiltData.uasset" 1681
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Ser_BuiltData.uexp" 1682
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Ser_BuiltData.ubulk" 1683
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Ser.uexp" 1684
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/FirstPersonBP/Maps/Depeart/Ser.umap" 1685
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 1686
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Source/UI/WB_GoodSky_Menu.uexp" 1687
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Maps/Level_GoodSky_Showcase.uexp" 1688
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/GoodSky/Maps/Level_GoodSky_Showcase.umap" 1689
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Fixture01.uasset" 1690
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Fixture01.uexp" 1691
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Fixture01.ubulk" 1692
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Future.uasset" 1693
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Future.uexp" 1694
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross02.uasset" 1695
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross02.uexp" 1696
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross02.ubulk" 1697
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Cross2.uasset" 1698
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Cross2.uexp" 1699
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross01.uasset" 1700
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross01.uexp" 1701
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross01.ubulk" 1702
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Cross1.uasset" 1703
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Cross1.uexp" 1704
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/XStar2.uasset" 1705
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/XStar2.uexp" 1706
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/XStar.uasset" 1707
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/XStar.uexp" 1708
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Wall_InvertedV.uasset" 1709
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Wall_InvertedV.uexp" 1710
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Wall_Boomerang.uasset" 1711
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Wall_Boomerang.uexp" 1712
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/VWing2.uasset" 1713
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/VWing2.uexp" 1714
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/VWing.uasset" 1715
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/VWing.uexp" 1716
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst8.uasset" 1717
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst8.uexp" 1718
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst7.uasset" 1719
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst7.uexp" 1720
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst6.uasset" 1721
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst6.uexp" 1722
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst5.uasset" 1723
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst5.uexp" 1724
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst2.uasset" 1725
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst2.uexp" 1726
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst.uasset" 1727
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst.uexp" 1728
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Bow.uasset" 1729
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Bow.uexp" 1730
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout4.uasset" 1731
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout4.uexp" 1732
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout3.uasset" 1733
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout3.uexp" 1734
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout2.uasset" 1735
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout2.uexp" 1736
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout1.uasset" 1737
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout1.uexp" 1738
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spotlight4.uasset" 1739
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spotlight4.uexp" 1740
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spotlight3.uasset" 1741
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spotlight3.uexp" 1742
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/SpotLight2.uasset" 1743
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/SpotLight2.uexp" 1744
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/SpotLight1.uasset" 1745
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/SpotLight1.uexp" 1746
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered4.uasset" 1747
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered4.uexp" 1748
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered3.uasset" 1749
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered3.uexp" 1750
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered2.uasset" 1751
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered2.uexp" 1752
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered1.uasset" 1753
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered1.uexp" 1754
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam7.uasset" 1755
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam7.uexp" 1756
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam6.uasset" 1757
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam6.uexp" 1758
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam5.uasset" 1759
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam5.uexp" 1760
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam4.uasset" 1761
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam4.uexp" 1762
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam3.uasset" 1763
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam3.uexp" 1764
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam2.uasset" 1765
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam2.uexp" 1766
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam1.uasset" 1767
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam1.uexp" 1768
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Capped2.uasset" 1769
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Capped2.uexp" 1770
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Capped1.uasset" 1771
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Capped1.uexp" 1772
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Bow1.uasset" 1773
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Bow1.uexp" 1774
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam8.uasset" 1775
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam8.uexp" 1776
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam7.uasset" 1777
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam7.uexp" 1778
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam6.uasset" 1779
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam6.uexp" 1780
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam5.uasset" 1781
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam5.uexp" 1782
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam3.uasset" 1783
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam3.uexp" 1784
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam2.uasset" 1785
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam2.uexp" 1786
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Arrow_Up.uasset" 1787
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Arrow_Up.uexp" 1788
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Arrow_Star.uasset" 1789
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Arrow_Star.uexp" 1790
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/6Wing.uasset" 1791
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/6Wing.uexp" 1792
-"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 1793
-"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uexp" 1794
-"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.ubulk" 1795
-"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 1796
-"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uexp" 1797
-"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 1798
-"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uexp" 1799
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Materials/Blank2.uasset" 1800
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Materials/Blank2.uexp" 1801
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Materials/Blank.uasset" 1802
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Materials/Blank.uexp" 1803
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Triangle01.uasset" 1804
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Triangle01.uexp" 1805
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Triangle01.ubulk" 1806
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Triangle.uasset" 1807
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Triangle.uexp" 1808
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Sparkle02.uasset" 1809
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Sparkle02.uexp" 1810
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Sparkle02.ubulk" 1811
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Sparkle2.uasset" 1812
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Sparkle2.uexp" 1813
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Lines01.uasset" 1814
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Lines01.uexp" 1815
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Lines01.ubulk" 1816
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Lines.uasset" 1817
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Lines.uexp" 1818
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/jets01.uasset" 1819
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/jets01.uexp" 1820
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/jets01.ubulk" 1821
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Jet.uasset" 1822
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Jet.uexp" 1823
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo02.uasset" 1824
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo02.uexp" 1825
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo02.ubulk" 1826
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Halo2.uasset" 1827
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Halo2.uexp" 1828
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo01.uasset" 1829
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo01.uexp" 1830
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo01.ubulk" 1831
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Halo.uasset" 1832
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Halo.uexp" 1833
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid02.uasset" 1834
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid02.uexp" 1835
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid02.ubulk" 1836
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid3.uasset" 1837
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid3.uexp" 1838
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid01.uasset" 1839
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid01.uexp" 1840
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid01.ubulk" 1841
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid2.uasset" 1842
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid2.uexp" 1843
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid.uasset" 1844
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid.uexp" 1845
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid.ubulk" 1846
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid.uasset" 1847
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid.uexp" 1848
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam.uasset" 1849
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam.uexp" 1850
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/XStar2.uasset" 1690
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/XStar2.uexp" 1691
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/XStar.uasset" 1692
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/XStar.uexp" 1693
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Wall_InvertedV.uasset" 1694
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Wall_InvertedV.uexp" 1695
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Wall_Boomerang.uasset" 1696
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Wall_Boomerang.uexp" 1697
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/VWing2.uasset" 1698
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/VWing2.uexp" 1699
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/VWing.uasset" 1700
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/VWing.uexp" 1701
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst8.uasset" 1702
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst8.uexp" 1703
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst7.uasset" 1704
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst7.uexp" 1705
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst6.uasset" 1706
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst6.uexp" 1707
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst5.uasset" 1708
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst5.uexp" 1709
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst2.uasset" 1710
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst2.uexp" 1711
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst.uasset" 1712
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Burst.uexp" 1713
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Bow.uasset" 1714
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Star_Bow.uexp" 1715
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout4.uasset" 1716
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout4.uexp" 1717
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout3.uasset" 1718
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout3.uexp" 1719
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout2.uasset" 1720
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout2.uexp" 1721
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout1.uasset" 1722
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spreadout1.uexp" 1723
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spotlight4.uasset" 1724
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spotlight4.uexp" 1725
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spotlight3.uasset" 1726
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Spotlight3.uexp" 1727
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/SpotLight2.uasset" 1728
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/SpotLight2.uexp" 1729
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/SpotLight1.uasset" 1730
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/SpotLight1.uexp" 1731
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered4.uasset" 1732
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered4.uexp" 1733
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered3.uasset" 1734
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered3.uexp" 1735
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered2.uasset" 1736
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered2.uexp" 1737
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered1.uasset" 1738
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Shattered1.uexp" 1739
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam7.uasset" 1740
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam7.uexp" 1741
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam6.uasset" 1742
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam6.uexp" 1743
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam5.uasset" 1744
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam5.uexp" 1745
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam4.uasset" 1746
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam4.uexp" 1747
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam3.uasset" 1748
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam3.uexp" 1749
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam2.uasset" 1750
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam2.uexp" 1751
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam1.uasset" 1752
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/LEDBeam1.uexp" 1753
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Capped2.uasset" 1754
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Capped2.uexp" 1755
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Capped1.uasset" 1756
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Capped1.uexp" 1757
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Bow1.uasset" 1758
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Bow1.uexp" 1759
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam8.uasset" 1760
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam8.uexp" 1761
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam7.uasset" 1762
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam7.uexp" 1763
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam6.uasset" 1764
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam6.uexp" 1765
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam5.uasset" 1766
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam5.uexp" 1767
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam3.uasset" 1768
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam3.uexp" 1769
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam2.uasset" 1770
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam2.uexp" 1771
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Arrow_Up.uasset" 1772
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Arrow_Up.uexp" 1773
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Arrow_Star.uasset" 1774
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Arrow_Star.uexp" 1775
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/6Wing.uasset" 1776
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/6Wing.uexp" 1777
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 1778
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uexp" 1779
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.ubulk" 1780
+"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 1781
+"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uexp" 1782
+"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 1783
+"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uexp" 1784
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Materials/Blank2.uasset" 1785
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Materials/Blank2.uexp" 1786
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Materials/Blank.uasset" 1787
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Materials/Blank.uexp" 1788
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Triangle01.uasset" 1789
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Triangle01.uexp" 1790
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Triangle01.ubulk" 1791
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Triangle.uasset" 1792
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Triangle.uexp" 1793
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Sparkle02.uasset" 1794
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Sparkle02.uexp" 1795
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Sparkle02.ubulk" 1796
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Sparkle2.uasset" 1797
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Sparkle2.uexp" 1798
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Lines01.uasset" 1799
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Lines01.uexp" 1800
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Lines01.ubulk" 1801
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Lines.uasset" 1802
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Lines.uexp" 1803
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/jets01.uasset" 1804
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/jets01.uexp" 1805
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/jets01.ubulk" 1806
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Jet.uasset" 1807
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Jet.uexp" 1808
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo02.uasset" 1809
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo02.uexp" 1810
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo02.ubulk" 1811
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Halo2.uasset" 1812
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Halo2.uexp" 1813
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo01.uasset" 1814
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo01.uexp" 1815
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo01.ubulk" 1816
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Halo.uasset" 1817
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Halo.uexp" 1818
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid02.uasset" 1819
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid02.uexp" 1820
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid02.ubulk" 1821
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid3.uasset" 1822
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid3.uexp" 1823
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid01.uasset" 1824
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid01.uexp" 1825
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid01.ubulk" 1826
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid2.uasset" 1827
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid2.uexp" 1828
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid.uasset" 1829
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid.uexp" 1830
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid.ubulk" 1831
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid.uasset" 1832
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Grid.uexp" 1833
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam.uasset" 1834
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Profiles/Beam.uexp" 1835
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Fixture01.uasset" 1836
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Fixture01.uexp" 1837
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Fixture01.ubulk" 1838
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Future.uasset" 1839
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Future.uexp" 1840
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross02.uasset" 1841
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross02.uexp" 1842
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross02.ubulk" 1843
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Cross2.uasset" 1844
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Cross2.uexp" 1845
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross01.uasset" 1846
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross01.uexp" 1847
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross01.ubulk" 1848
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Cross1.uasset" 1849
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Lighting/Functions/Materials/Cross1.uexp" 1850
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Overview.uexp" 1851
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Overview.ubulk" 1852
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/LightProfilePack/Overview.umap" 1853
@@ -1977,75 +1977,75 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 1976
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Advanced_Lighting.uexp" 1977
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Advanced_Lighting.umap" 1978
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_N.uasset" 1979
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_N.uexp" 1980
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_N.ubulk" 1981
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_M.uasset" 1982
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_M.uexp" 1983
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_M.ubulk" 1984
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1985
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_TableRound.uexp" 1986
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_TableRound.uasset" 1987
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_TableRound.uexp" 1988
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_N.uasset" 1989
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_N.uexp" 1990
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_N.ubulk" 1991
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_M.uasset" 1992
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_M.uexp" 1993
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_M.ubulk" 1994
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_Statue.uasset" 1995
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_Statue.uexp" 1996
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1997
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 1998
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Statue.uasset" 1999
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Statue.uexp" 2000
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Chair.uasset" 2001
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Chair.uexp" 2002
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_MacroVariation.uasset" 2003
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_MacroVariation.uexp" 2004
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Architecture/Floor_400x400.uasset" 1979
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Architecture/Floor_400x400.uexp" 1980
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_N.uasset" 1981
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_N.uexp" 1982
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_N.ubulk" 1983
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_M.uasset" 1984
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_M.uexp" 1985
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_TableRound_M.ubulk" 1986
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1987
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_TableRound.uexp" 1988
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_TableRound.uasset" 1989
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_TableRound.uexp" 1990
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_N.uasset" 1991
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_N.uexp" 1992
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_N.ubulk" 1993
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_M.uasset" 1994
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_M.uexp" 1995
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Statue_M.ubulk" 1996
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_Statue.uasset" 1997
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_Statue.uexp" 1998
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1999
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 2000
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Statue.uasset" 2001
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Statue.uexp" 2002
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Chair.uasset" 2003
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Props/SM_Chair.uexp" 2004
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 2005
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 2006
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 2007
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 2008
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 2009
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 2010
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Copper.uasset" 2011
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Copper.uexp" 2012
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 2013
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 2014
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 2015
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 2016
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 2017
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 2018
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 2019
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2020
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 2021
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 2022
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2023
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 2024
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 2025
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2026
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 2027
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 2028
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2029
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 2030
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 2031
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 2032
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 2033
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2034
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 2035
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2036
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 2037
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2038
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 2039
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2040
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 2041
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2042
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 2043
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 2044
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 2045
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Architecture/Floor_400x400.uasset" 2046
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Architecture/Floor_400x400.uexp" 2047
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_MacroVariation.uasset" 2011
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_MacroVariation.uexp" 2012
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Copper.uasset" 2013
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Copper.uexp" 2014
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 2015
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 2016
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 2017
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 2018
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 2019
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 2020
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 2021
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2022
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 2023
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 2024
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2025
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 2026
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 2027
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2028
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 2029
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 2030
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2031
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 2032
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 2033
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 2034
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 2035
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2036
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 2037
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2038
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 2039
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2040
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 2041
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2042
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 2043
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2044
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 2045
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 2046
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 2047
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Minimal_Default.uexp" 2048
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/Minimal_Default.umap" 2049
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2050
@@ -2254,125 +2254,125 @@
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 2253
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 2254
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 2255
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2256
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 2257
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 2258
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2259
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 2260
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 2261
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2262
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 2263
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2264
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 2265
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 2266
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2267
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 2268
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2269
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 2270
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 2271
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2272
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 2273
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 2274
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2275
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 2276
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 2277
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2278
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 2279
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 2280
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2281
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Gradinet_01.uexp" 2282
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 2283
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2284
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 2285
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2286
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 2287
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 2288
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2289
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 2290
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 2291
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2292
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 2293
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2294
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 2295
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 2296
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2297
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 2298
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 2299
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2300
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 2301
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 2302
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2303
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 2304
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2305
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 2306
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 2307
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2308
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 2309
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 2310
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2311
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 2312
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2313
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 2314
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 2315
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2316
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 2317
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 2318
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2319
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 2320
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 2321
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2322
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 2323
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2324
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 2325
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 2326
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2327
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 2328
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 2329
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2330
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 2331
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2332
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 2333
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 2334
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2335
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 2336
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 2337
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2338
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 2339
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2340
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 2341
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2342
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 2343
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2344
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 2345
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 2346
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 2347
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 2348
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2349
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 2350
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 2351
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 2352
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 2353
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 2354
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 2355
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 2356
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 2357
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2358
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 2359
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 2360
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 2361
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 2362
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 2363
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 2364
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 2365
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 2366
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2367
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 2368
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 2369
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2370
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 2371
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 2372
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2373
-"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 2374
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2256
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 2257
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 2258
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2259
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 2260
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 2261
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2262
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 2263
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2264
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 2265
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 2266
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2267
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 2268
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 2269
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2270
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 2271
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2272
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 2273
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 2274
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2275
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 2276
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2277
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 2278
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 2279
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2280
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 2281
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 2282
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2283
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 2284
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 2285
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2286
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 2287
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 2288
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2289
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Gradinet_01.uexp" 2290
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 2291
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2292
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 2293
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2294
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 2295
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 2296
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2297
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 2298
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 2299
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2300
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 2301
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2302
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 2303
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 2304
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2305
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 2306
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 2307
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2308
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 2309
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 2310
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2311
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 2312
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2313
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 2314
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 2315
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2316
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 2317
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 2318
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2319
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 2320
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2321
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 2322
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 2323
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2324
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 2325
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 2326
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2327
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 2328
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 2329
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2330
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 2331
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2332
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 2333
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 2334
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2335
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 2336
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 2337
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2338
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 2339
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2340
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 2341
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 2342
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2343
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 2344
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 2345
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2346
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 2347
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2348
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 2349
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2350
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 2351
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2352
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 2353
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 2354
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 2355
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 2356
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2357
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 2358
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 2359
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 2360
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 2361
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 2362
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 2363
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 2364
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 2365
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2366
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 2367
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 2368
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 2369
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 2370
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 2371
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 2372
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 2373
+"C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 2374
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Lamp_N.uasset" 2375
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Lamp_N.uexp" 2376
 "C:/Users/Derric/Documents/Unreal Projects/SM57TEST/Content/StarterContent/Textures/T_Lamp_N.ubulk" 2377
