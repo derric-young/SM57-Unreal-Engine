@@ -1,0 +1,888 @@
+Begin Map Name=/Game/FirstPersonBP/Maps/Depeart/Fac_2
+   Begin Level NAME=PersistentLevel
+      Begin Actor Class=/Script/Engine.WorldSettings Name=WorldInfo_0 Archetype=/Script/Engine.WorldSettings'/Script/Engine.Default__WorldSettings'
+         Begin Object Class=/Script/Engine.NavigationSystemConfig Name="NavigationSystemConfig_0"
+         End Object
+         Begin Object Class=/Script/Engine.BookMark Name="BookMark_2"
+         End Object
+         Begin Object Class=/Script/Engine.BookMark Name="BookMark_0"
+         End Object
+         Begin Object Name="NavigationSystemConfig_0"
+            NavigationSystemClass=/Script/NavigationSystem.NavigationSystemV1
+         End Object
+         Begin Object Name="BookMark_2"
+            Location=(X=-1451.932617,Y=139.440521,Z=979.150757)
+            Rotation=(Pitch=-15.036316,Yaw=-0.527018,Roll=0.000000)
+         End Object
+         Begin Object Name="BookMark_0"
+            Location=(X=1032.924561,Y=-1225.010620,Z=295.627106)
+            Rotation=(Pitch=13.904873,Yaw=132.802292,Roll=0.000000)
+         End Object
+         bEnableNavigationSystem=False
+         NavigationSystemConfig=NavigationSystemConfig'"NavigationSystemConfig_0"'
+         KillZ=-1000.000000
+         DefaultGameMode=BlueprintGeneratedClass'"/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C"'
+         LightmassSettings=(NumIndirectLightingBounces=5,EnvironmentColor=(B=255,G=218,R=176,A=0),EnvironmentIntensity=0.000000,OcclusionExponent=1.500000,MaxOcclusionDistance=400.000000)
+         HierarchicalLODSetup(0)=(TransitionScreenSize=0.313790,ProxySetting=(MaterialSettings=(SpecularTextureSize=(X=0,Y=49901184)),MergeDistance=4.000000,HardAngleThreshold=80.000000,LandscapeCullingPrecision=High),MergeSetting=(MaterialSettings=(SpecularTextureSize=(X=0,Y=5659056)),bUseVertexDataForBakingMaterial=False))
+         BookMarks(1)=BookMark'"BookMark_2"'
+         BookMarks(2)=BookMark'"BookMark_0"'
+         BookmarkArray(0)=None
+         BookmarkArray(1)=BookMark'"BookMark_2"'
+         BookmarkArray(2)=BookMark'"BookMark_0"'
+         BookmarkArray(3)=None
+         BookmarkArray(4)=None
+         BookmarkArray(5)=None
+         BookmarkArray(6)=None
+         BookmarkArray(7)=None
+         BookmarkArray(8)=None
+         BookmarkArray(9)=None
+         ActorLabel="WorldInfo"
+      End Actor
+      Begin Actor Class=/Script/Engine.Brush Name=Brush_0 Archetype=/Script/Engine.Brush'/Script/Engine.Default__Brush'
+         Begin Object Class=/Script/UnrealEd.CubeBuilder Name="CubeBuilder_8"
+         End Object
+         Begin Object Class=/Script/Engine.BrushComponent Name="BrushComponent0" Archetype=BrushComponent'/Script/Engine.Default__Brush:BrushComponent0'
+         End Object
+         Begin Object Name="CubeBuilder_8"
+            Vertices(0)=(X=-1000.000000,Y=-1000.000000,Z=-100.000000)
+            Vertices(1)=(X=-1000.000000,Y=-1000.000000,Z=100.000000)
+            Vertices(2)=(X=-1000.000000,Y=1000.000000,Z=-100.000000)
+            Vertices(3)=(X=-1000.000000,Y=1000.000000,Z=100.000000)
+            Vertices(4)=(X=1000.000000,Y=-1000.000000,Z=-100.000000)
+            Vertices(5)=(X=1000.000000,Y=-1000.000000,Z=100.000000)
+            Vertices(6)=(X=1000.000000,Y=1000.000000,Z=-100.000000)
+            Vertices(7)=(X=1000.000000,Y=1000.000000,Z=100.000000)
+            Polys(0)=(VertexIndices=(0,1,3,2),Direction=1)
+            Polys(1)=(VertexIndices=(2,3,7,6),Direction=1)
+            Polys(2)=(VertexIndices=(6,7,5,4),Direction=1)
+            Polys(3)=(VertexIndices=(4,5,1,0),Direction=1)
+            Polys(4)=(VertexIndices=(3,1,5,7),Direction=1)
+            Polys(5)=(VertexIndices=(0,2,6,4),Direction=1)
+            Layer="Cube"
+         End Object
+         Begin Object Name="BrushComponent0"
+            Brush=Model'"Brush"'
+            bSelectable=False
+            RelativeLocation=(X=-470.000000,Y=350.000000,Z=130.000000)
+         End Object
+         bNotForClientOrServer=True
+         Brush=Model'"Brush"'
+         BrushComponent="BrushComponent0"
+         BrushBuilder=CubeBuilder'"CubeBuilder_8"'
+         bHidden=False
+         bActorEnableCollision=False
+         RootComponent="BrushComponent0"
+         Layers(0)="Cube"
+         ActorLabel="Brush"
+      End Actor
+      Begin Actor Class=/Script/Engine.PlayerStart Name=NetworkPlayerStart Archetype=/Script/Engine.PlayerStart'/Script/Engine.Default__PlayerStart'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="Arrow" Archetype=ArrowComponent'/Script/Engine.Default__PlayerStart:Arrow'
+         End Object
+         Begin Object Class=/Script/Engine.BillboardComponent Name="Sprite2" Archetype=BillboardComponent'/Script/Engine.Default__PlayerStart:Sprite2'
+         End Object
+         Begin Object Class=/Script/Engine.BillboardComponent Name="Sprite" Archetype=BillboardComponent'/Script/Engine.Default__PlayerStart:Sprite'
+         End Object
+         Begin Object Class=/Script/Engine.CapsuleComponent Name="CollisionCapsule" Archetype=CapsuleComponent'/Script/Engine.Default__PlayerStart:CollisionCapsule'
+         End Object
+         Begin Object Name="Arrow"
+            AttachParent="CollisionCapsule"
+         End Object
+         Begin Object Name="Sprite2"
+            AttachParent="CollisionCapsule"
+         End Object
+         Begin Object Name="Sprite"
+            AttachParent="CollisionCapsule"
+         End Object
+         Begin Object Name="CollisionCapsule"
+            AreaClass=Class'"/Script/NavigationSystem.NavArea_Obstacle"'
+            RelativeLocation=(X=326.243225,Y=3.556587,Z=232.000671)
+            RelativeRotation=(Pitch=0.000000,Yaw=-179.999893,Roll=-0.000000)
+            RelativeScale3D=(X=-0.250000,Y=1.000000,Z=1.000000)
+         End Object
+         ArrowComponent="Arrow"
+         CapsuleComponent="CollisionCapsule"
+         GoodSprite="Sprite"
+         BadSprite="Sprite2"
+         RootComponent="CollisionCapsule"
+         ActorLabel="NetworkPlayerStart"
+      End Actor
+      Begin Actor Class=/Game/OOB_teleport/teleporter.teleporter_C Name=teleporter_2 Archetype=/Game/OOB_teleport/teleporter.teleporter_C'/Game/OOB_teleport/teleporter.Default__teleporter_C'
+         Begin Object Class=/Script/Engine.BoxComponent Name="Box" Archetype=BoxComponent'/Game/OOB_teleport/teleporter.teleporter_C:Box_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="DefaultSceneRoot" Archetype=SceneComponent'/Game/OOB_teleport/teleporter.teleporter_C:DefaultSceneRoot_GEN_VARIABLE'
+         End Object
+         Begin Object Name="Box"
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DefaultSceneRoot"
+            RelativeLocation=(X=-2650.000000,Y=-1190.000000,Z=140.000000)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+            UCSModifiedProperties(0)=(MemberParent=Class'"/Script/Engine.SceneComponent"',MemberName="RelativeLocation")
+         End Object
+         Box="Box"
+         DefaultSceneRoot="DefaultSceneRoot"
+         RootComponent="DefaultSceneRoot"
+         ActorLabel="teleporter"
+         BlueprintCreatedComponents(0)="DefaultSceneRoot"
+         BlueprintCreatedComponents(1)="Box"
+      End Actor
+      Begin Actor Class=/Script/Engine.StaticMeshActor Name=Cube_2 Archetype=/Script/Engine.StaticMeshActor'/Script/Engine.Default__StaticMeshActor'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=StaticMeshComponent'/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0'
+         End Object
+         Begin Object Name="StaticMeshComponent0"
+            StaticMesh=StaticMesh'"/Engine/BasicShapes/Cube.Cube"'
+            StaticMeshDerivedDataKey="STATICMESH_9CE2B6FB46754B699726C4AA1515F12E_228332BAE0224DD294E232B87D83948FQuadricMeshReduction_V1$2e0_26D666F86459324BE77D4F6A1939C6698000000000100000001000000000000000100000001000000010000000000000000000000000000004000000000000000020000000000803F0000803F0000803F0000004000000000050000004E6F6E650030000000803F0000803F000000000000004100000000000034420303030000000000000000LS0MNSzzzzzzzz0"
+            MaterialStreamingRelativeBoxes(0)=4294901760
+            OverrideMaterials(0)=Material'"/Game/FirstPersonBP/Maps/white_Mat.white_Mat"'
+            VisibilityId=0
+            RelativeLocation=(X=-167.000000,Y=2334.000000,Z=350.000000)
+            RelativeScale3D=(X=67.000000,Y=1.000000,Z=6.250000)
+            CustomProperties 
+         End Object
+         StaticMeshComponent="StaticMeshComponent0"
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Cube"
+      End Actor
+      Begin Actor Class=/Script/Engine.PointLight Name=PointLight_1 Archetype=/Script/Engine.PointLight'/Script/Engine.Default__PointLight'
+         Begin Object Class=/Script/Engine.PointLightComponent Name="LightComponent0" Archetype=PointLightComponent'/Script/Engine.Default__PointLight:LightComponent0'
+         End Object
+         Begin Object Name="LightComponent0"
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            Temperature=12000.000000
+            bUseTemperature=True
+            LightGuid=929AD6174DA8B81F284773B02EF29A1D
+            Intensity=160.000000
+            LightColor=(B=255,G=0,R=101,A=255)
+            CastShadows=False
+            RelativeLocation=(X=-300.000000,Y=1170.000000,Z=220.000000)
+         End Object
+         PointLightComponent="LightComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="PointLight"
+      End Actor
+      Begin Actor Class=/Script/Engine.PointLight Name=PointLight2_4 Archetype=/Script/Engine.PointLight'/Script/Engine.Default__PointLight'
+         Begin Object Class=/Script/Engine.PointLightComponent Name="LightComponent0" Archetype=PointLightComponent'/Script/Engine.Default__PointLight:LightComponent0'
+         End Object
+         Begin Object Name="LightComponent0"
+            IntensityUnits=Candelas
+            AttenuationRadius=4193.760742
+            LightGuid=B99782EE42E0016DC4A4AAA43F39E5C9
+            Intensity=60.000000
+            CastShadows=False
+            RelativeLocation=(X=-2040.000000,Y=60.000000,Z=220.000000)
+         End Object
+         PointLightComponent="LightComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="PointLight2"
+      End Actor
+      Begin Actor Class=/Script/Engine.PointLight Name=PointLight3_7 Archetype=/Script/Engine.PointLight'/Script/Engine.Default__PointLight'
+         Begin Object Class=/Script/Engine.PointLightComponent Name="LightComponent0" Archetype=PointLightComponent'/Script/Engine.Default__PointLight:LightComponent0'
+         End Object
+         Begin Object Name="LightComponent0"
+            IntensityUnits=Candelas
+            AttenuationRadius=4193.760742
+            LightGuid=322DB23441D7577FE9D97E9B7F5B553F
+            Intensity=60.000000
+            CastShadows=False
+            RelativeLocation=(X=-1120.000000,Y=-1000.000000,Z=220.000000)
+         End Object
+         PointLightComponent="LightComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="PointLight3"
+      End Actor
+      Begin Actor Class=/Script/Engine.PointLight Name=PointLight4_10 Archetype=/Script/Engine.PointLight'/Script/Engine.Default__PointLight'
+         Begin Object Class=/Script/Engine.PointLightComponent Name="LightComponent0" Archetype=PointLightComponent'/Script/Engine.Default__PointLight:LightComponent0'
+         End Object
+         Begin Object Name="LightComponent0"
+            IntensityUnits=Candelas
+            AttenuationRadius=4193.760742
+            LightGuid=7E0E7D6144232A163CBF38BB068B036D
+            Intensity=60.000000
+            CastShadows=False
+            RelativeLocation=(X=740.000000,Y=-1050.000000,Z=220.000000)
+         End Object
+         PointLightComponent="LightComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="PointLight4"
+      End Actor
+      Begin Actor Class=/Script/Engine.PointLight Name=PointLight5_13 Archetype=/Script/Engine.PointLight'/Script/Engine.Default__PointLight'
+         Begin Object Class=/Script/Engine.PointLightComponent Name="LightComponent0" Archetype=PointLightComponent'/Script/Engine.Default__PointLight:LightComponent0'
+         End Object
+         Begin Object Name="LightComponent0"
+            IntensityUnits=Candelas
+            AttenuationRadius=4193.760742
+            LightGuid=0C3B679A44753AFE04EFDF982355D31D
+            Intensity=60.000000
+            CastShadows=False
+            RelativeLocation=(X=640.000000,Y=10.000000,Z=220.000000)
+         End Object
+         PointLightComponent="LightComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="PointLight5"
+      End Actor
+      Begin Actor Class=/Script/Engine.PointLight Name=PointLight6_16 Archetype=/Script/Engine.PointLight'/Script/Engine.Default__PointLight'
+         Begin Object Class=/Script/Engine.PointLightComponent Name="LightComponent0" Archetype=PointLightComponent'/Script/Engine.Default__PointLight:LightComponent0'
+         End Object
+         Begin Object Name="LightComponent0"
+            IntensityUnits=Candelas
+            AttenuationRadius=4193.760742
+            LightGuid=0AED71874F520F716E6BAA9BCA82A4D5
+            Intensity=60.000000
+            CastShadows=False
+            RelativeLocation=(X=1930.000000,Y=220.000000,Z=220.000000)
+         End Object
+         PointLightComponent="LightComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="PointLight6"
+      End Actor
+      Begin Actor Class=/Script/Engine.PointLight Name=PointLight7_19 Archetype=/Script/Engine.PointLight'/Script/Engine.Default__PointLight'
+         Begin Object Class=/Script/Engine.PointLightComponent Name="LightComponent0" Archetype=PointLightComponent'/Script/Engine.Default__PointLight:LightComponent0'
+         End Object
+         Begin Object Name="LightComponent0"
+            IntensityUnits=Candelas
+            AttenuationRadius=4193.760742
+            LightGuid=358FB0854594BC58172335A4232085EA
+            Intensity=60.000000
+            CastShadows=False
+            RelativeLocation=(X=1970.000000,Y=-1980.000000,Z=220.000000)
+         End Object
+         PointLightComponent="LightComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="PointLight7"
+      End Actor
+      Begin Actor Class=/Script/Engine.PointLight Name=PointLight8_22 Archetype=/Script/Engine.PointLight'/Script/Engine.Default__PointLight'
+         Begin Object Class=/Script/Engine.PointLightComponent Name="LightComponent0" Archetype=PointLightComponent'/Script/Engine.Default__PointLight:LightComponent0'
+         End Object
+         Begin Object Name="LightComponent0"
+            IntensityUnits=Candelas
+            AttenuationRadius=4193.760742
+            LightGuid=3F6359794C5FE5A66074F8B91518B1EF
+            Intensity=60.000000
+            CastShadows=False
+            RelativeLocation=(X=-2830.000000,Y=-2050.000000,Z=220.000000)
+         End Object
+         PointLightComponent="LightComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="PointLight8"
+      End Actor
+      Begin Actor Class=/Script/Engine.StaticMeshActor Name=Floor3 Archetype=/Script/Engine.StaticMeshActor'/Script/Engine.Default__StaticMeshActor'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=StaticMeshComponent'/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0'
+         End Object
+         Begin Object Name="StaticMeshComponent0"
+            StaticMesh=StaticMesh'"/Game/Geometry/Meshes/1M_Cube.1M_Cube"'
+            bOverrideLightMapRes=True
+            OverriddenLightMapRes=1024
+            StaticMeshDerivedDataKey="STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060Simplygon_5_5_2156_18f808c3cf724e5a994f57de5c83cc4b_A6F574154019B4ECBC7B0CB6A03071CD0000000001000000010000000100000000000000010000004000000000000000010000000000803F0000803F0000803F0000803F000000000000803F00000000000000000000344203030300000000"
+            MaterialStreamingRelativeBoxes(0)=4294901760
+            OverrideMaterials(0)=Material'"/Game/FirstPersonBP/Maps/white_Mat.white_Mat"'
+            BodyInstance=(MassInKgOverride=44987.312500)
+            RelativeLocation=(X=-3802.148926,Y=-12970.000000,Z=600.224548)
+            RelativeRotation=(Pitch=0.000683,Yaw=0.000000,Roll=-0.000000)
+            RelativeScale3D=(X=107.500000,Y=295.250000,Z=1.000000)
+            CustomProperties 
+         End Object
+         StaticMeshComponent="StaticMeshComponent0"
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Floor3"
+         FolderPath="ArenaGeometry/Arena"
+      End Actor
+      Begin Actor Class=/Script/Engine.StaticMeshActor Name=Floor4 Archetype=/Script/Engine.StaticMeshActor'/Script/Engine.Default__StaticMeshActor'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=StaticMeshComponent'/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0'
+         End Object
+         Begin Object Name="StaticMeshComponent0"
+            StaticMesh=StaticMesh'"/Game/Geometry/Meshes/1M_Cube.1M_Cube"'
+            bOverrideLightMapRes=True
+            OverriddenLightMapRes=1024
+            StaticMeshDerivedDataKey="STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060Simplygon_5_5_2156_18f808c3cf724e5a994f57de5c83cc4b_A6F574154019B4ECBC7B0CB6A03071CD0000000001000000010000000100000000000000010000004000000000000000010000000000803F0000803F0000803F0000803F000000000000803F00000000000000000000344203030300000000"
+            MaterialStreamingRelativeBoxes(0)=4294901760
+            OverrideMaterials(0)=Material'"/Game/FirstPersonBP/Maps/white_Mat.white_Mat"'
+            VisibilityId=2
+            BodyInstance=(MassInKgOverride=44987.312500)
+            RelativeLocation=(X=2327.851074,Y=-12210.000000,Z=120.224548)
+            RelativeRotation=(Pitch=0.000683,Yaw=0.000000,Roll=-0.000000)
+            RelativeScale3D=(X=311.250000,Y=301.000000,Z=1.000000)
+            CustomProperties 
+         End Object
+         StaticMeshComponent="StaticMeshComponent0"
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Floor4"
+         FolderPath="ArenaGeometry/Arena"
+      End Actor
+      Begin Actor Class=/Script/Engine.StaticMeshActor Name=Floor5 Archetype=/Script/Engine.StaticMeshActor'/Script/Engine.Default__StaticMeshActor'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=StaticMeshComponent'/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0'
+         End Object
+         Begin Object Name="StaticMeshComponent0"
+            StaticMesh=StaticMesh'"/Game/Geometry/Meshes/1M_Cube.1M_Cube"'
+            bOverrideLightMapRes=True
+            OverriddenLightMapRes=1024
+            StaticMeshDerivedDataKey="STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060Simplygon_5_5_2156_18f808c3cf724e5a994f57de5c83cc4b_A6F574154019B4ECBC7B0CB6A03071CD0000000001000000010000000100000000000000010000004000000000000000010000000000803F0000803F0000803F0000803F000000000000803F00000000000000000000344203030300000000"
+            MaterialStreamingRelativeBoxes(0)=4294901760
+            OverrideMaterials(0)=Material'"/Game/FirstPersonBP/Maps/white_Mat.white_Mat"'
+            VisibilityId=3
+            BodyInstance=(MassInKgOverride=44987.312500)
+            RelativeLocation=(X=2327.851074,Y=-12210.000000,Z=3460.224609)
+            RelativeRotation=(Pitch=0.000683,Yaw=0.000000,Roll=-0.000000)
+            RelativeScale3D=(X=311.250000,Y=301.000000,Z=1.000000)
+            CustomProperties 
+         End Object
+         StaticMeshComponent="StaticMeshComponent0"
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Floor5"
+         FolderPath="ArenaGeometry/Arena"
+      End Actor
+      Begin Actor Class=/Script/Engine.SpotLight Name=SpotLight_1 Archetype=/Script/Engine.SpotLight'/Script/Engine.Default__SpotLight'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="ArrowComponent0" Archetype=ArrowComponent'/Script/Engine.Default__SpotLight:ArrowComponent0'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="LightComponent0" Archetype=SpotLightComponent'/Script/Engine.Default__SpotLight:LightComponent0'
+         End Object
+         Begin Object Name="ArrowComponent0"
+            AttachParent="LightComponent0"
+         End Object
+         Begin Object Name="LightComponent0"
+            InnerConeAngle=50.000000
+            OuterConeAngle=80.000000
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            LightGuid=4FE8178D44DEB0AC40D5F59F5126CECB
+            Intensity=160.000000
+            CastShadows=False
+            RelativeLocation=(X=7450.000000,Y=-19180.000000,Z=3360.000000)
+         End Object
+         SpotLightComponent="LightComponent0"
+         ArrowComponent="ArrowComponent0"
+         LightComponent="LightComponent0"
+         RootComponent="LightComponent0"
+         ActorLabel="SpotLight"
+      End Actor
+      Begin Actor Class=/Script/Engine.SpotLight Name=SpotLight2 Archetype=/Script/Engine.SpotLight'/Script/Engine.Default__SpotLight'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="ArrowComponent0" Archetype=ArrowComponent'/Script/Engine.Default__SpotLight:ArrowComponent0'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="LightComponent0" Archetype=SpotLightComponent'/Script/Engine.Default__SpotLight:LightComponent0'
+         End Object
+         Begin Object Name="ArrowComponent0"
+            AttachParent="LightComponent0"
+         End Object
+         Begin Object Name="LightComponent0"
+            InnerConeAngle=50.000000
+            OuterConeAngle=80.000000
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            LightGuid=57D2115A4C9117D21E0ACA8E0363A93D
+            Intensity=160.000000
+            CastShadows=False
+            RelativeLocation=(X=1380.000000,Y=-18810.000000,Z=530.000000)
+         End Object
+         SpotLightComponent="LightComponent0"
+         ArrowComponent="ArrowComponent0"
+         LightComponent="LightComponent0"
+         SpawnCollisionHandlingMethod=AlwaysSpawn
+         RootComponent="LightComponent0"
+         ActorLabel="SpotLight2"
+      End Actor
+      Begin Actor Class=/Script/Engine.SpotLight Name=SpotLight3 Archetype=/Script/Engine.SpotLight'/Script/Engine.Default__SpotLight'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="ArrowComponent0" Archetype=ArrowComponent'/Script/Engine.Default__SpotLight:ArrowComponent0'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="LightComponent0" Archetype=SpotLightComponent'/Script/Engine.Default__SpotLight:LightComponent0'
+         End Object
+         Begin Object Name="ArrowComponent0"
+            AttachParent="LightComponent0"
+         End Object
+         Begin Object Name="LightComponent0"
+            InnerConeAngle=50.000000
+            OuterConeAngle=80.000000
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            Temperature=3459.047852
+            bUseTemperature=True
+            LightGuid=565FDB684A07EA53AE0ECB8321045107
+            Intensity=160.000000
+            CastShadows=False
+            RelativeLocation=(X=1380.000000,Y=-10500.000000,Z=530.000000)
+         End Object
+         SpotLightComponent="LightComponent0"
+         ArrowComponent="ArrowComponent0"
+         LightComponent="LightComponent0"
+         SpawnCollisionHandlingMethod=AlwaysSpawn
+         RootComponent="LightComponent0"
+         ActorLabel="SpotLight3"
+      End Actor
+      Begin Actor Class=/Script/Engine.SpotLight Name=SpotLight4 Archetype=/Script/Engine.SpotLight'/Script/Engine.Default__SpotLight'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="ArrowComponent0" Archetype=ArrowComponent'/Script/Engine.Default__SpotLight:ArrowComponent0'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="LightComponent0" Archetype=SpotLightComponent'/Script/Engine.Default__SpotLight:LightComponent0'
+         End Object
+         Begin Object Name="ArrowComponent0"
+            AttachParent="LightComponent0"
+         End Object
+         Begin Object Name="LightComponent0"
+            InnerConeAngle=50.000000
+            OuterConeAngle=80.000000
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            Temperature=9050.475586
+            bUseTemperature=True
+            LightGuid=750711C14A1C6038AE2DDC814ECC5ADF
+            Intensity=160.000000
+            CastShadows=False
+            RelativeLocation=(X=-5840.000000,Y=-10500.000000,Z=530.000000)
+         End Object
+         SpotLightComponent="LightComponent0"
+         ArrowComponent="ArrowComponent0"
+         LightComponent="LightComponent0"
+         SpawnCollisionHandlingMethod=AlwaysSpawn
+         RootComponent="LightComponent0"
+         ActorLabel="SpotLight4"
+      End Actor
+      Begin Actor Class=/Script/Engine.SpotLight Name=SpotLight5 Archetype=/Script/Engine.SpotLight'/Script/Engine.Default__SpotLight'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="ArrowComponent0" Archetype=ArrowComponent'/Script/Engine.Default__SpotLight:ArrowComponent0'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="LightComponent0" Archetype=SpotLightComponent'/Script/Engine.Default__SpotLight:LightComponent0'
+         End Object
+         Begin Object Name="ArrowComponent0"
+            AttachParent="LightComponent0"
+         End Object
+         Begin Object Name="LightComponent0"
+            InnerConeAngle=50.000000
+            OuterConeAngle=80.000000
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            Temperature=1700.000000
+            bUseTemperature=True
+            LightGuid=DE22A5B840311B4B1759DF9A14F23820
+            Intensity=160.000000
+            CastShadows=False
+            RelativeLocation=(X=-7260.000000,Y=-6140.000000,Z=530.000000)
+         End Object
+         SpotLightComponent="LightComponent0"
+         ArrowComponent="ArrowComponent0"
+         LightComponent="LightComponent0"
+         SpawnCollisionHandlingMethod=AlwaysSpawn
+         RootComponent="LightComponent0"
+         ActorLabel="SpotLight5"
+      End Actor
+      Begin Actor Class=/Script/Engine.SpotLight Name=SpotLight6 Archetype=/Script/Engine.SpotLight'/Script/Engine.Default__SpotLight'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="ArrowComponent0" Archetype=ArrowComponent'/Script/Engine.Default__SpotLight:ArrowComponent0'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="LightComponent0" Archetype=SpotLightComponent'/Script/Engine.Default__SpotLight:LightComponent0'
+         End Object
+         Begin Object Name="ArrowComponent0"
+            AttachParent="LightComponent0"
+         End Object
+         Begin Object Name="LightComponent0"
+            InnerConeAngle=50.000000
+            OuterConeAngle=80.000000
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            Temperature=12000.000000
+            bUseTemperature=True
+            LightGuid=97BBE55F4D8FECFEE3B211AD6C0FCC8E
+            Intensity=160.000000
+            CastShadows=False
+            RelativeLocation=(X=-380.000000,Y=-5270.000000,Z=530.000000)
+         End Object
+         SpotLightComponent="LightComponent0"
+         ArrowComponent="ArrowComponent0"
+         LightComponent="LightComponent0"
+         SpawnCollisionHandlingMethod=AlwaysSpawn
+         RootComponent="LightComponent0"
+         ActorLabel="SpotLight6"
+      End Actor
+      Begin Actor Class=/Script/Engine.SpotLight Name=SpotLight7 Archetype=/Script/Engine.SpotLight'/Script/Engine.Default__SpotLight'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="ArrowComponent0" Archetype=ArrowComponent'/Script/Engine.Default__SpotLight:ArrowComponent0'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="LightComponent0" Archetype=SpotLightComponent'/Script/Engine.Default__SpotLight:LightComponent0'
+         End Object
+         Begin Object Name="ArrowComponent0"
+            AttachParent="LightComponent0"
+         End Object
+         Begin Object Name="LightComponent0"
+            InnerConeAngle=50.000000
+            OuterConeAngle=80.000000
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            LightGuid=3E842BF5441F3D225DC5CCADE8B5E90C
+            Intensity=160.000000
+            CastShadows=False
+            RelativeLocation=(X=7450.000000,Y=-19180.000000,Z=3360.000000)
+            RelativeRotation=(Pitch=-69.999870,Yaw=0.000000,Roll=0.000000)
+         End Object
+         SpotLightComponent="LightComponent0"
+         ArrowComponent="ArrowComponent0"
+         LightComponent="LightComponent0"
+         SpawnCollisionHandlingMethod=AlwaysSpawn
+         RootComponent="LightComponent0"
+         ActorLabel="SpotLight7"
+      End Actor
+      Begin Actor Class=/Script/Engine.SpotLight Name=SpotLight8 Archetype=/Script/Engine.SpotLight'/Script/Engine.Default__SpotLight'
+         Begin Object Class=/Script/Engine.ArrowComponent Name="ArrowComponent0" Archetype=ArrowComponent'/Script/Engine.Default__SpotLight:ArrowComponent0'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="LightComponent0" Archetype=SpotLightComponent'/Script/Engine.Default__SpotLight:LightComponent0'
+         End Object
+         Begin Object Name="ArrowComponent0"
+            AttachParent="LightComponent0"
+         End Object
+         Begin Object Name="LightComponent0"
+            InnerConeAngle=50.000000
+            OuterConeAngle=80.000000
+            IntensityUnits=Candelas
+            AttenuationRadius=16384.000000
+            LightGuid=CAE50A334C5FC45B7869B29B0ADA940E
+            Intensity=160.000000
+            CastShadows=False
+            RelativeLocation=(X=7450.000000,Y=-19180.000000,Z=3360.000000)
+            RelativeRotation=(Pitch=-49.999817,Yaw=0.000000,Roll=0.000000)
+         End Object
+         SpotLightComponent="LightComponent0"
+         ArrowComponent="ArrowComponent0"
+         LightComponent="LightComponent0"
+         SpawnCollisionHandlingMethod=AlwaysSpawn
+         RootComponent="LightComponent0"
+         ActorLabel="SpotLight8"
+      End Actor
+      Begin Actor Class=/Script/Engine.SkeletalMeshActor Name=Man_2 Archetype=/Script/Engine.SkeletalMeshActor'/Script/Engine.Default__SkeletalMeshActor'
+         Begin Object Class=/Script/Engine.SkeletalMeshComponent Name="SkeletalMeshComponent0" Archetype=SkeletalMeshComponent'/Script/Engine.Default__SkeletalMeshActor:SkeletalMeshComponent0'
+         End Object
+         Begin Object Name="SkeletalMeshComponent0"
+            ClothingSimulationFactory=Class'"/Script/ClothingSystemRuntimeNv.ClothingSimulationFactoryNv"'
+            SkeletalMesh=SkeletalMesh'"/Game/FirstPersonBP/Maps/Depeart/Man.Man"'
+            OverrideMaterials(0)=Material'"/Game/FirstPersonBP/Maps/Depeart/mantexture_Mat.mantexture_Mat"'
+            RelativeLocation=(X=14650.000000,Y=-18590.000000,Z=410.000000)
+         End Object
+         SkeletalMeshComponent="SkeletalMeshComponent0"
+         RootComponent="SkeletalMeshComponent0"
+         ActorLabel="Man"
+      End Actor
+      Begin Actor Class=/Game/FirstPersonBP/Maps/Depeart/ReturntoHub.ReturntoHub_C Name=ReturntoHub Archetype=/Game/FirstPersonBP/Maps/Depeart/ReturntoHub.ReturntoHub_C'/Game/FirstPersonBP/Maps/Depeart/ReturntoHub.Default__ReturntoHub_C'
+         Begin Object Class=/Script/Engine.BillboardComponent Name="Sprite" Archetype=BillboardComponent'/Game/FirstPersonBP/Maps/Depeart/ReturntoHub.Default__ReturntoHub_C:Sprite'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="CollisionComp" Archetype=BoxComponent'/Game/FirstPersonBP/Maps/Depeart/ReturntoHub.Default__ReturntoHub_C:CollisionComp'
+            Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_0" Archetype=BodySetup'/Game/FirstPersonBP/Maps/Depeart/ReturntoHub.Default__ReturntoHub_C:CollisionComp.BodySetup_0'
+            End Object
+         End Object
+         Begin Object Name="Sprite"
+            AttachParent="CollisionComp"
+         End Object
+         Begin Object Name="CollisionComp"
+            Begin Object Name="BodySetup_0"
+               AggGeom=(BoxElems=((X=725.000000,Y=325.000000,Z=867.500000)))
+            End Object
+            BoxExtent=(X=362.500000,Y=162.500000,Z=433.750000)
+            RelativeLocation=(X=-220.000000,Y=2210.000000,Z=520.000000)
+         End Object
+         CollisionComponent="CollisionComp"
+         SpriteComponent="Sprite"
+         RootComponent="CollisionComp"
+         ActorLabel="ReturntoHub"
+      End Actor
+      Begin Actor Class=/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C Name=Facility1_2 Archetype=/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C'/Game/FirstPersonBP/Maps/Depeart/Facility1.Default__Facility1_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_012" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_012_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_011" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_011_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_010" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_010_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_009" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_009_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_008" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_008_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_007" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_007_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_006" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_006_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_005" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_005_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_004" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_004_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_003" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_003_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_002" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_002_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube_001" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_001_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="FacM_Cube" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:FacM_Cube_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="DefaultSceneRoot" Archetype=SceneComponent'/Game/FirstPersonBP/Maps/Depeart/Facility1.Facility1_C:DefaultSceneRoot_GEN_VARIABLE'
+         End Object
+         Begin Object Name="FacM_Cube_012"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_011"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_010"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_009"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_008"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_007"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_006"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_005"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_004"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_003"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_002"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube_001"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FacM_Cube"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="DefaultSceneRoot"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DefaultSceneRoot"
+            RelativeLocation=(X=4030.000000,Y=-13450.000000,Z=360.000000)
+            RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+            UCSModifiedProperties(0)=(MemberParent=Class'"/Script/Engine.SceneComponent"',MemberName="RelativeLocation")
+            UCSModifiedProperties(1)=(MemberParent=Class'"/Script/Engine.SceneComponent"',MemberName="RelativeScale3D")
+         End Object
+         FacM_Cube_012="FacM_Cube_012"
+         FacM_Cube_011="FacM_Cube_011"
+         FacM_Cube_010="FacM_Cube_010"
+         FacM_Cube_009="FacM_Cube_009"
+         FacM_Cube_008="FacM_Cube_008"
+         FacM_Cube_007="FacM_Cube_007"
+         FacM_Cube_006="FacM_Cube_006"
+         FacM_Cube_005="FacM_Cube_005"
+         FacM_Cube_004="FacM_Cube_004"
+         FacM_Cube_003="FacM_Cube_003"
+         FacM_Cube_002="FacM_Cube_002"
+         FacM_Cube_001="FacM_Cube_001"
+         FacM_Cube="FacM_Cube"
+         DefaultSceneRoot="DefaultSceneRoot"
+         RootComponent="DefaultSceneRoot"
+         ActorLabel="Facility1"
+         BlueprintCreatedComponents(0)="DefaultSceneRoot"
+         BlueprintCreatedComponents(1)="FacM_Cube"
+         BlueprintCreatedComponents(2)="FacM_Cube_001"
+         BlueprintCreatedComponents(3)="FacM_Cube_002"
+         BlueprintCreatedComponents(4)="FacM_Cube_003"
+         BlueprintCreatedComponents(5)="FacM_Cube_004"
+         BlueprintCreatedComponents(6)="FacM_Cube_005"
+         BlueprintCreatedComponents(7)="FacM_Cube_006"
+         BlueprintCreatedComponents(8)="FacM_Cube_007"
+         BlueprintCreatedComponents(9)="FacM_Cube_008"
+         BlueprintCreatedComponents(10)="FacM_Cube_009"
+         BlueprintCreatedComponents(11)="FacM_Cube_010"
+         BlueprintCreatedComponents(12)="FacM_Cube_011"
+         BlueprintCreatedComponents(13)="FacM_Cube_012"
+      End Actor
+      Begin Actor Class=/Script/Engine.StaticMeshActor Name=Cube2_2 Archetype=/Script/Engine.StaticMeshActor'/Script/Engine.Default__StaticMeshActor'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=StaticMeshComponent'/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0'
+         End Object
+         Begin Object Name="StaticMeshComponent0"
+            StaticMesh=StaticMesh'"/Engine/BasicShapes/Cube.Cube"'
+            StaticMeshDerivedDataKey="STATICMESH_9CE2B6FB46754B699726C4AA1515F12E_228332BAE0224DD294E232B87D83948FQuadricMeshReduction_V1$2e0_26D666F86459324BE77D4F6A1939C6698000000000100000001000000000000000100000001000000010000000000000000000000000000004000000000000000020000000000803F0000803F0000803F0000004000000000050000004E6F6E650030000000803F0000803F000000000000004100000000000034420303030000000000000000LS0MNSzzzzzzzz0"
+            OverrideMaterials(0)=Material'"/Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial"'
+            RelativeLocation=(X=-270.000000,Y=1960.000000,Z=360.000000)
+            RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=60.000088)
+            RelativeScale3D=(X=1.000000,Y=1.000000,Z=10.250000)
+         End Object
+         StaticMeshComponent="StaticMeshComponent0"
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Cube2"
+      End Actor
+      Begin Actor Class=/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C Name=FirstPersonCharacter_C_1 Archetype=/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.Default__FirstPersonCharacter_C'
+         Begin Object Class=/Script/Engine.SkeletalMeshComponent Name="CharacterMesh0" Archetype=SkeletalMeshComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.Default__FirstPersonCharacter_C:CharacterMesh0'
+         End Object
+         Begin Object Class=/Script/Engine.CharacterMovementComponent Name="CharMoveComp" Archetype=CharacterMovementComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.Default__FirstPersonCharacter_C:CharMoveComp'
+         End Object
+         Begin Object Class=/Script/Engine.ArrowComponent Name="Arrow" Archetype=ArrowComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.Default__FirstPersonCharacter_C:Arrow'
+         End Object
+         Begin Object Class=/Script/Engine.CapsuleComponent Name="CollisionCylinder" Archetype=CapsuleComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.Default__FirstPersonCharacter_C:CollisionCylinder'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Cylinder" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:Cylinder_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/HeadMountedDisplay.MotionControllerComponent Name="R_MotionController" Archetype=MotionControllerComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:R_MotionController_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/HeadMountedDisplay.MotionControllerComponent Name="L_MotionController" Archetype=MotionControllerComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:L_MotionController_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="SpotLight1" Archetype=SpotLightComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:SpotLight1_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Flashlight" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:Flashlight_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Cone" Archetype=StaticMeshComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:Cone_GEN_VARIABLE'
+         End Object
+         Begin Object Class=/Script/Engine.CameraComponent Name="FirstPersonCamera" Archetype=CameraComponent'/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:CameraComponent_0__CCE3C0B4'
+         End Object
+         Begin Object Name="CharacterMesh0"
+            AttachParent="CollisionCylinder"
+            RelativeRotation=(Pitch=0.000000,Yaw=-0.000854,Roll=-0.000000)
+            PrimaryComponentTick=(EndTickGroup=TG_PostPhysics)
+         End Object
+         Begin Object Name="CharMoveComp"
+            WalkableFloorZ=0.710000
+            NavAgentProps=(AgentRadius=55.000000)
+         End Object
+         Begin Object Name="Arrow"
+            AttachParent="CollisionCylinder"
+         End Object
+         Begin Object Name="CollisionCylinder"
+            BodyInstance=(MassInKgOverride=165.527161,MaxAngularVelocity=3599.999756)
+            RelativeLocation=(X=1091.808838,Y=-17180.265625,Z=266.224792)
+            RelativeRotation=(Pitch=0.000000,Yaw=-270.000366,Roll=0.000000)
+         End Object
+         Begin Object Name="Cylinder"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="CollisionCylinder"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="R_MotionController"
+            AttachParent="CollisionCylinder"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="L_MotionController"
+            AttachParent="CollisionCylinder"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SpotLight1"
+            AttachParent="Flashlight"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Flashlight"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="FirstPersonCamera"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Cone"
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="FirstPersonCamera"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FirstPersonCamera"
+            AttachParent="CollisionCylinder"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         SpotLight1="SpotLight1"
+         Flashlight="Flashlight"
+         Cylinder="Cylinder"
+         Cone="Cone"
+         R_MotionController="R_MotionController"
+         L_MotionController="L_MotionController"
+         FirstPersonCamera="FirstPersonCamera"
+         Mesh="CharacterMesh0"
+         CharacterMovement="CharMoveComp"
+         CapsuleComponent="CollisionCylinder"
+         ArrowComponent="Arrow"
+         AutoPossessPlayer=Player0
+         SpawnCollisionHandlingMethod=AlwaysSpawn
+         RootComponent="CollisionCylinder"
+         ActorLabel="FirstPersonCharacter"
+         BlueprintCreatedComponents(0)="FirstPersonCamera"
+         BlueprintCreatedComponents(1)="Cone"
+         BlueprintCreatedComponents(2)="Flashlight"
+         BlueprintCreatedComponents(3)="SpotLight1"
+         BlueprintCreatedComponents(4)="L_MotionController"
+         BlueprintCreatedComponents(5)="R_MotionController"
+         BlueprintCreatedComponents(6)="Cylinder"
+      End Actor
+      Begin Actor Class=/Game/FirstPersonBP/Maps/Depeart/Fac_2.Fac_2_C Name=Fac_2_C_0 Archetype=/Game/FirstPersonBP/Maps/Depeart/Fac_2.Fac_2_C'/Game/FirstPersonBP/Maps/Depeart/Fac_2.Default__Fac_2_C'
+         ActorLabel="Fac_2"
+      End Actor
+      Begin Actor Class=/Script/NavigationSystem.AbstractNavData Name=AbstractNavData-Default Archetype=/Script/NavigationSystem.AbstractNavData'/Script/NavigationSystem.Default__AbstractNavData'
+         Begin Object Class=/Script/Engine.SceneComponent Name="SceneComp" Archetype=SceneComponent'/Script/NavigationSystem.Default__AbstractNavData:SceneComp'
+         End Object
+         Begin Object Name="SceneComp"
+         End Object
+         NavDataConfig=(NavDataClass=/Script/NavigationSystem.AbstractNavData)
+         ActorLabel="AbstractNavData-Default"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map
