@@ -1,0 +1,35 @@
+﻿newmtl /Game/FirstPersonBP/Maps/white_Mat_white_Mat
+	map_Kd white_Mat_white_Mat_D.bmp
+	map_Ks white_Mat_white_Mat_S.bmp
+	bump white_Mat_white_Mat_N.bmp
+
+newmtl /Game/FirstPersonBP/Maps/Depeart/Fac1_Mat_Fac1_Mat
+	map_Kd Fac1_Mat_Fac1_Mat_D.bmp
+	map_Ks Fac1_Mat_Fac1_Mat_S.bmp
+	bump Fac1_Mat_Fac1_Mat_N.bmp
+
+newmtl /Game/FirstPersonBP/Maps/Depeart/Fac2_Mat_Fac2_Mat
+	map_Kd Fac2_Mat_Fac2_Mat_D.bmp
+	map_Ks Fac2_Mat_Fac2_Mat_S.bmp
+	bump Fac2_Mat_Fac2_Mat_N.bmp
+
+newmtl /Game/FirstPersonBP/Maps/Depeart/Material_002_Material_002
+	map_Kd Material_002_Material_002_D.bmp
+	map_Ks Material_002_Material_002_S.bmp
+	bump Material_002_Material_002_N.bmp
+
+newmtl /Engine/BasicShapes/BasicShapeMaterial_BasicShapeMaterial
+	map_Kd BasicShapeMaterial_BasicShapeMaterial_D.bmp
+	map_Ks BasicShapeMaterial_BasicShapeMaterial_S.bmp
+	bump BasicShapeMaterial_BasicShapeMaterial_N.bmp
+
+newmtl /Engine/EditorMaterials/MatineeCam_mat_MatineeCam_mat
+	map_Kd MatineeCam_mat_MatineeCam_mat_D.bmp
+	map_Ks MatineeCam_mat_MatineeCam_mat_S.bmp
+	bump MatineeCam_mat_MatineeCam_mat_N.bmp
+
+newmtl /Game/FirstPersonBP/Blueprints/Material_001_Material_001
+	map_Kd Material_001_Material_001_D.bmp
+	map_Ks Material_001_Material_001_S.bmp
+	bump Material_001_Material_001_N.bmp
+
