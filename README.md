@@ -16,6 +16,8 @@ What is Currently Implemented
 6. Main Menu
 7. Bootup
 8. Chapter 3
+9. DLC CHapter 1
+10. DLC Chapter 2
 
 Scrapped
 1. Classic Mode
