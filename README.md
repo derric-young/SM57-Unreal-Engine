@@ -5,7 +5,7 @@ SM57: A Unreal Engine Remake is a Remake of the SM57 Series. Built Using Near Or
 if your seeing this in #announcements-3 in discord. this is working
 
 TO DO.
-Do Final Development Hurdle's and everything
+1. VR Mode
 
 What is Currently Implemented
 1. Chapter 1
@@ -21,4 +21,3 @@ What is Currently Implemented
 
 Scrapped
 1. Classic Mode
-2. VR Mode
